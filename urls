@@ -20,7 +20,4 @@
 
 
 
-'https://apt.kubernetes.io/dists/kubernetes-xenial/InRelease' apt.kubernetes.io_dists_kubernetes-xenial_InRelease 0
-'https://apt.kubernetes.io/dists/kubernetes-xenial/main/binary-amd64/Packages.gz' apt.kubernetes.io_dists_kubernetes-xenial_main_binary-amd64_Packages 0
-'https://apt.kubernetes.io/dists/kubernetes-xenial/main/binary-all/Packages.gz' apt.kubernetes.io_dists_kubernetes-xenial_main_binary-all_Packages 0
  
