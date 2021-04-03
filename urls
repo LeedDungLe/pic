@@ -1,25 +1,4 @@
-'https://apt.kubernetes.io/dists/kubernetes-xenial/InRelease' apt.kubernetes.io_dists_kubernetes-xenial_InRelease 0 
-'https://apt.kubernetes.io/dists/kubernetes-xenial/main/binary-amd64/Packages.xz' apt.kubernetes.io_dists_kubernetes-xenial_main_binary-amd64_Packages 0 
-'https://apt.kubernetes.io/dists/kubernetes-xenial/main/binary-i386/Packages.xz' apt.kubernetes.io_dists_kubernetes-xenial_main_binary-i386_Packages 0 
-'https://apt.kubernetes.io/dists/kubernetes-xenial/main/binary-all/Packages.xz' apt.kubernetes.io_dists_kubernetes-xenial_main_binary-all_Packages 0 
-'https://apt.kubernetes.io/dists/kubernetes-xenial/main/i18n/Translation-en_US.xz' apt.kubernetes.io_dists_kubernetes-xenial_main_i18n_Translation-en%5fUS 0 
-'https://apt.kubernetes.io/dists/kubernetes-xenial/main/i18n/Translation-en.xz' apt.kubernetes.io_dists_kubernetes-xenial_main_i18n_Translation-en 0 
-'https://apt.kubernetes.io/dists/kubernetes-xenial/main/dep11/Components-amd64.yml.xz' apt.kubernetes.io_dists_kubernetes-xenial_main_dep11_Components-amd64.yml 0 
-'https://apt.kubernetes.io/dists/kubernetes-xenial/main/dep11/Components-all.yml.xz' apt.kubernetes.io_dists_kubernetes-xenial_main_dep11_Components-all.yml 0 
-'https://apt.kubernetes.io/dists/kubernetes-xenial/main/dep11/icons-48x48.tar.xz' apt.kubernetes.io_dists_kubernetes-xenial_main_dep11_icons-48x48.tar 0 
-'https://apt.kubernetes.io/dists/kubernetes-xenial/main/dep11/icons-64x64.tar.xz' apt.kubernetes.io_dists_kubernetes-xenial_main_dep11_icons-64x64.tar 0 
-'https://apt.kubernetes.io/dists/kubernetes-xenial/main/dep11/icons-64x64@2.tar.xz' apt.kubernetes.io_dists_kubernetes-xenial_main_dep11_icons-64x64%402.tar 0 
-'https://apt.kubernetes.io/dists/kubernetes-xenial/main/dep11/icons-128x128.tar.xz' apt.kubernetes.io_dists_kubernetes-xenial_main_dep11_icons-128x128.tar 0 
-'https://apt.kubernetes.io/dists/kubernetes-xenial/main/cnf/Commands-amd64.xz' apt.kubernetes.io_dists_kubernetes-xenial_main_cnf_Commands-amd64 0 
-'https://apt.kubernetes.io/dists/kubernetes-xenial/main/cnf/Commands-all.xz' apt.kubernetes.io_dists_kubernetes-xenial_main_cnf_Commands-all 0 
 
-
-
------------------------------------
-
-traceroute stop at 206.204.107.34.bc.googleusercontent.com (34.107.204.206)
- 
- -----------------------------------
  
 https://devcalost.com/author/bui/
 
